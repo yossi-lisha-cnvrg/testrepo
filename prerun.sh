@@ -1,1 +1,2 @@
-cd /cnvrg && cnvrg download && cd -
+cd $CNVRG_WORKDIR && cnvrg download
+cd -
