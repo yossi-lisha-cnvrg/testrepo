@@ -2,9 +2,9 @@
   "proj": [
     "flow1",
     "flow2"
-  ]
-    "wg": [
+  ],
+   "wg": [
     "flow1",
     "flow2"
-  ]
+  ],
 }
