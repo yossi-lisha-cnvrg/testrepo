@@ -3,4 +3,8 @@
     "flow1",
     "flow2"
   ]
+    "wg": [
+    "flow1",
+    "flow2"
+  ]
 }
